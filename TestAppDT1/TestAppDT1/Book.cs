@@ -1,4 +1,4 @@
-﻿namespace WebApplication1
+﻿namespace TestAppDT1
 {
     public class Book
     {
