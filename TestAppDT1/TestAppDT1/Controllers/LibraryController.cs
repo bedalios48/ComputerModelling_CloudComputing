@@ -27,5 +27,7 @@ namespace TestAppDT1.Controllers
             _library.AddBook(book);
             return Ok();
         }
+
+        [HttpP]
     }
 }
