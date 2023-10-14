@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../CodeAcademy_Assignments/FinalAssignment/GenealogyTree_FE"
+		},
+		{
+			"path": "../CodeAcademy_Assignments/Assignments_JavaScript"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "GenealogyTree_FE"
+	}
+}
