@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace TestAppDT1.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("/")]
     public class LibraryController : ControllerBase
     {
         private readonly ILogger<LibraryController> _logger;
